@@ -194,6 +194,9 @@
 				<version>2.22.0</version>
 				<configuration>
 					<testFailureIgnore>true</testFailureIgnore>
+					 <suiteXmlFiles>                          
+                            <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
+                        </suiteXmlFiles>
 				</configuration>
 			</plugin>
 			<plugin>
