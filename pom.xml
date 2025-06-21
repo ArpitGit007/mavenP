@@ -10,10 +10,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>TestNg</name>
-
-	<!-- FIXME change it to the project's website Anurag child master-->
+	<!-- FIXME change it to the project's website Anurag child master New-->
 	<url>http://www.example.com</url>
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.7</maven.compiler.source>
